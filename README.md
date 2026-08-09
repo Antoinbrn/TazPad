@@ -18,7 +18,7 @@ Top CAD
 ![Bottom part of the Case](CAD/Assets/Bottom.png)
 Bottom CAD
 
-![Fitting picture with every components](CAD/Assets.Bottom.png)
+![Fitting picture with every components](CAD/Assets/Fitting.png)
 
 ## PCB:
 Here is my pcb made in KiCad
